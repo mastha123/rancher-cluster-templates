@@ -11,7 +11,7 @@ entries:
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png
     name: rancher-aws-cluster-template
     urls:
-    - https://github.com/bashofmann/rancher-cluster-templates/releases/download/rancher-aws-cluster-template-0.2.0/rancher-aws-cluster-template-0.2.0.tgz
+    - https://github.com/mastha123/rancher-cluster-templates/releases/download/rancher-aws-cluster-template-0.2.0/rancher-aws-cluster-template-0.2.0.tgz
     version: 0.2.0
   - annotations:
       catalog.cattle.io/namespace: fleet-default
@@ -23,7 +23,7 @@ entries:
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png
     name: rancher-aws-cluster-template
     urls:
-    - https://github.com/bashofmann/rancher-cluster-templates/releases/download/rancher-aws-cluster-template-0.1.0/rancher-aws-cluster-template-0.1.0.tgz
+    - https://github.com/mastha123/rancher-cluster-templates/releases/download/rancher-aws-cluster-template-0.1.0/rancher-aws-cluster-template-0.1.0.tgz
     version: 0.1.0
   rancher-do-cluster-template:
   - annotations:
@@ -35,7 +35,7 @@ entries:
     digest: 6b7c1abe2cfc388e9cb38aab47a57713f4cbeccfb50289b3f61501a050ef7e7d
     name: rancher-do-cluster-template
     urls:
-    - https://github.com/bashofmann/rancher-cluster-templates/releases/download/rancher-do-cluster-template-0.3.0/rancher-do-cluster-template-0.3.0.tgz
+    - https://github.com/mastha123/rancher-cluster-templates/releases/download/rancher-do-cluster-template-0.3.0/rancher-do-cluster-template-0.3.0.tgz
     version: 0.3.0
   - annotations:
       catalog.cattle.io/namespace: fleet-default
@@ -46,7 +46,7 @@ entries:
     digest: f8b5ab1bbe7161535f14a9e27890d6ad9b748a219b3e93e96a946c3ee01d0a1f
     name: rancher-do-cluster-template
     urls:
-    - https://github.com/bashofmann/rancher-cluster-templates/releases/download/rancher-do-cluster-template-0.2.0/rancher-do-cluster-template-0.2.0.tgz
+    - https://github.com/mastha123/rancher-cluster-templates/releases/download/rancher-do-cluster-template-0.2.0/rancher-do-cluster-template-0.2.0.tgz
     version: 0.2.0
   - annotations:
       catalog.cattle.io/namespace: fleet-default
@@ -57,7 +57,7 @@ entries:
     digest: 2fc6a2abf86ab4c244302f5416ad94ce1caa5b9c69ac7165c504a2559c160582
     name: rancher-do-cluster-template
     urls:
-    - https://github.com/bashofmann/rancher-cluster-templates/releases/download/rancher-do-cluster-template-0.1.0/rancher-do-cluster-template-0.1.0.tgz
+    - https://github.com/mastha123/rancher-cluster-templates/releases/download/rancher-do-cluster-template-0.1.0/rancher-do-cluster-template-0.1.0.tgz
     version: 0.1.0
   rancher-equinix-cluster-template:
   - annotations:
@@ -70,7 +70,7 @@ entries:
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Equinix_logo.svg/1024px-Equinix_logo.svg.png
     name: rancher-equinix-cluster-template
     urls:
-    - https://github.com/bashofmann/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.1.2/rancher-equinix-cluster-template-0.1.2.tgz
+    - https://github.com/mastha123/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.1.2/rancher-equinix-cluster-template-0.1.2.tgz
     version: 0.1.2
   - annotations:
       catalog.cattle.io/namespace: fleet-default
@@ -82,7 +82,7 @@ entries:
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Equinix_logo.svg/1024px-Equinix_logo.svg.png
     name: rancher-equinix-cluster-template
     urls:
-    - https://github.com/bashofmann/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.1.1/rancher-equinix-cluster-template-0.1.1.tgz
+    - https://github.com/mastha123/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.1.1/rancher-equinix-cluster-template-0.1.1.tgz
     version: 0.1.1
   - annotations:
       catalog.cattle.io/namespace: fleet-default
@@ -94,7 +94,7 @@ entries:
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Equinix_logo.svg/1024px-Equinix_logo.svg.png
     name: rancher-equinix-cluster-template
     urls:
-    - https://github.com/bashofmann/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.1.0/rancher-equinix-cluster-template-0.1.0.tgz
+    - https://github.com/mastha123/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.1.0/rancher-equinix-cluster-template-0.1.0.tgz
     version: 0.1.0
   - annotations:
       catalog.cattle.io/namespace: fleet-default
@@ -106,7 +106,7 @@ entries:
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Equinix_logo.svg/1024px-Equinix_logo.svg.png
     name: rancher-equinix-cluster-template
     urls:
-    - https://github.com/bashofmann/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.0.8/rancher-equinix-cluster-template-0.0.8.tgz
+    - https://github.com/mastha123/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.0.8/rancher-equinix-cluster-template-0.0.8.tgz
     version: 0.0.8
   - annotations:
       catalog.cattle.io/namespace: fleet-default
@@ -118,7 +118,7 @@ entries:
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Equinix_logo.svg/1024px-Equinix_logo.svg.png
     name: rancher-equinix-cluster-template
     urls:
-    - https://github.com/bashofmann/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.0.7/rancher-equinix-cluster-template-0.0.7.tgz
+    - https://github.com/mastha123/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.0.7/rancher-equinix-cluster-template-0.0.7.tgz
     version: 0.0.7
   - annotations:
       catalog.cattle.io/namespace: fleet-default
@@ -130,7 +130,7 @@ entries:
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Equinix_logo.svg/1024px-Equinix_logo.svg.png
     name: rancher-equinix-cluster-template
     urls:
-    - https://github.com/bashofmann/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.0.6/rancher-equinix-cluster-template-0.0.6.tgz
+    - https://github.com/mastha123/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.0.6/rancher-equinix-cluster-template-0.0.6.tgz
     version: 0.0.6
   - annotations:
       catalog.cattle.io/namespace: fleet-default
@@ -142,7 +142,7 @@ entries:
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Equinix_logo.svg/1024px-Equinix_logo.svg.png
     name: rancher-equinix-cluster-template
     urls:
-    - https://github.com/bashofmann/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.0.5/rancher-equinix-cluster-template-0.0.5.tgz
+    - https://github.com/mastha123/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.0.5/rancher-equinix-cluster-template-0.0.5.tgz
     version: 0.0.5
   - annotations:
       catalog.cattle.io/namespace: fleet-default
@@ -154,7 +154,7 @@ entries:
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Equinix_logo.svg/1024px-Equinix_logo.svg.png
     name: rancher-equinix-cluster-template
     urls:
-    - https://github.com/bashofmann/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.0.4/rancher-equinix-cluster-template-0.0.4.tgz
+    - https://github.com/mastha123/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.0.4/rancher-equinix-cluster-template-0.0.4.tgz
     version: 0.0.4
   - annotations:
       catalog.cattle.io/namespace: fleet-default
@@ -166,7 +166,7 @@ entries:
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Equinix_logo.svg/1024px-Equinix_logo.svg.png
     name: rancher-equinix-cluster-template
     urls:
-    - https://github.com/bashofmann/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.0.3/rancher-equinix-cluster-template-0.0.3.tgz
+    - https://github.com/mastha123/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.0.3/rancher-equinix-cluster-template-0.0.3.tgz
     version: 0.0.3
   - annotations:
       catalog.cattle.io/namespace: fleet-default
@@ -178,6 +178,6 @@ entries:
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Equinix_logo.svg/1024px-Equinix_logo.svg.png
     name: rancher-equinix-cluster-template
     urls:
-    - https://github.com/bashofmann/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.0.2/rancher-equinix-cluster-template-0.0.2.tgz
+    - https://github.com/mastha123/rancher-equinix-cluster-template/releases/download/rancher-equinix-cluster-template-0.0.2/rancher-equinix-cluster-template-0.0.2.tgz
     version: 0.0.2
 generated: "2022-05-10T15:16:55.26106162Z"
